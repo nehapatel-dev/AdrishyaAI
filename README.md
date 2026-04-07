@@ -120,9 +120,6 @@ Neha Patel
 🎓 BCA Student | 💻 Web Developer | 🤖 AI Enthusiast
 
 
-
-💬 Recruiter Note
-
 This project demonstrates:
 
 * Strong problem-solving ability
